@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="Shortcut Icon" href="img/fav.png">
+	<title>
+		New site
+	</title>
+	<link href="style_1.css" rel="stylesheet" type="text/css">
+</head>
+<body background="img/phh.png">
+	<h1 style="position: relative;text-align: center;">My biography!!!</h1>
+	<div style="color: black; background-color: red">
+	<br>
+	<center><h2>Sergazy Kazybek</h2></center>
+	<br><br>
+	<hr></div>
+	<div><font size="5" color="FireBrick" face="Eras Bold ITC">
+	 <ul>
+    <li><a href="index.html" target="_blank"><font size="5" color="gold">Home</font></a></li>
+    <li><a href="Page 1.html" target="_blank"><font size="5" color="gold">My family</font></a></li>
+    <li><a href="Page 2.html" target="_blank"><font size="5" color="gold">My hobby</font></a></li>
+    </ul>
+ 	</div>
+	<font size="5" color="red" face="Castellar"><center><p style="position: relative;left: 3%;width: 97%">My name is Kazybek. I am 17 years old. I am from Makanchi in East Kazakhstan region.</center>
+		<br><br>
+		<br>
+		<center><img src="img/img2.png"></center>
+		<br><br>
+		<ul>
+   	<div><font size="5" color="DarkSlateGray" face="Jokerman"><li>Birth</li>
+    <li>My family</li>
+    <li>My hobby</li>
+    <li>My life principle</li>
+  	</ul></div>
+  	<h3>Birth
+  		<hr>
+  		<h6>I was born on April 14, 2003 in the village of Makanchi, Urjar district, East Kazakhstan region.</h6>
+   <div><font size="5" color="balck" face="Cooper Black"><center><caption>About me</caption>
+   <br>
+   <table border="1" width="600"><tr>
+    <th>Date</th>
+    <th>circumstances</th>
+    <th>achievements</th>
+   </tr>
+   <tr><td>2003</td><td>I was born</td><td></td>
+   <tr><td>2009</td><td>I went to school</td><td>I learned to write and the alphabet</td>
+   <tr><td>2019</td><td>I took part in the Physics Olympiad</td><td>I won 3rd place in the Republican competition of scientific projects in physics.</td>
+   <tr><td>2020</td><td>I finished school</td><td>I entered Astana IT University</td>
+  </table>
+  <br><br></center></div>
+  <form action="handler.php">
+  <div><center><font size="5" color="Olive" face="Matura MT Script Capitals"><p><b>Do you know my interests? Let's check?</b></p>
+  <p><input type="radio" name="answer" value="a1">Reading books, playing computer games<Br>
+  <input type="radio" name="answer" value="a2">play football, basketball<Br>
+  <input type="radio" name="answer" value="a3">Relax and listen to music</p>
+  <p><input type="submit"></p></center>
+  </div>
+  <br>
+  <div><font size="5" color="OrangeRed" face="Elephant"><p>Basically, these three answers are correct</p>
+ </form>
+ 	<br><br>
+ 	<p><em><span class="letter">M</span>y life principle:</em> only forward,know other languages, but respect  your native language.</p>
+  	<p><b>My</b> <em>life </em>  principle is only to move forward. I want to be ahead in any environment. In short, a leader. I am such a person by nature. I am ready to do anything to move forward. </p>
+  	<br><br>
+  	<br>
+  	<p><strong>Respect for language</strong></p>
+  <h4><strong>Currently, </strong> the level of our native language is declining. So let's respect our language and speak it as much as possible. It is not for nothing that our ancestors said: "Know all other languages, respect your own language".</h4>
+  <br></div>
+  <br>
+  <p><a style="position: relative;left: 45%" href="https://vk.com/id227753651">VK</a></p>
+  <p><a style="position: relative;left: 45%" href="https://www.instagram.com/kazybek_100/">Instagram</a></p>
+<div><center><font size="7" color="red"><footer>Thanks for attention!!</footer></font></center></div></font>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<div><center><font size="7" color="red"><i class="fas fa-heart"></i></div></center></font>
+</body>
+</html>

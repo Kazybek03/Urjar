@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="Shortcut Icon" href="img/fav.png">
+	<title>
+		My family
+	</title>
+	<link href="style_2.css" rel="stylesheet" type="text/css">
+</head>
+<body background="img/pr.png">
+  	<center><ol></center>
+  		<p><font size="6" color="red" face="Broadway">This is my family 
+    <font size="7" color="red" face="Algerian"><li>Grand father</li>
+    <font size="7" color="red" face="Algerian"><li>Grand mother</li>
+    <font size="7" color="red" face="Algerian"><li>Father</li> 
+    <font size="7" color="red" face="Algerian"><li>Mother</li>
+    <font size="7" color="red" face="Algerian"><li>Brother</li>
+    <li>And me</li>
+  	</ol>
+  	<br>
+  	<font size="7" color="red" face="Cooper Black"><center><caption>My father</caption></center>
+  	<br>
+  	<font size="7" color="red" face="Cooper Black"><center><h5><img src="img/img3.png" width="1000" height="600"></h5></center>
+  	<br>
+  	<hr><br><br>
+  	<br>
+  	<br><hr><br><br>
+  	<br>
+  	<font size="7" color="red" face="Cooper Black"><center><caption style="position: relative;left: 45%">My mother</caption></center>
+  	<br>
+  	<hr>
+  	<center><table border="2" style="border-color: green">
+  		<tr><td><img src="img/img4.png" width="600" height="700"></center></td></tr>
+  	</table>
+  	<br>
+  	<br>
+  	<h1>My brother</h1>
+  	<br>
+  	<center><table border="2" style="border-color: white">
+  		<tr><td><img src="img/img5.png" width="600" height="700"></center></td></tr>
+  	<table border="1">
+ 	<div class="clearfix">
+  	<img class="img2" src="img/ph.png" alt="Home" width="100" height="100">We are a happy and respectful family. I love my family.</div>
+</body>
+</html> 
